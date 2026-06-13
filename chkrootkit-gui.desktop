@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=chkrootkit GUI
+GenericName=Rootkit Scanner
+Comment=Friendly GTK front-end for chkrootkit with colored results
+Exec=chkrootkit-gui
+Icon=chkrootkit-gui
+Terminal=false
+Categories=System;Security;Utility;
+Keywords=rootkit;security;chkrootkit;scan;malware;
+StartupNotify=true
