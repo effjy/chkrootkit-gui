@@ -3,7 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language: C](https://img.shields.io/badge/language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![GTK3](https://img.shields.io/badge/GTK-3-green.svg)](https://www.gtk.org/)
-[![Stars](https://img.shields.io/github/stars/effjy/chkrootkit-gui?style=social)](https://github.com/effjy/chkrootkit-gui/stargazers)
 [![Issues](https://img.shields.io/github/issues/effjy/chkrootkit-gui.svg)](https://github.com/effjy/chkrootkit-gui/issues)
 [![Last commit](https://img.shields.io/github/last-commit/effjy/chkrootkit-gui.svg)](https://github.com/effjy/chkrootkit-gui/commits)
 
