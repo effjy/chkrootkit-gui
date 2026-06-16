@@ -1,10 +1,14 @@
-# chkrootkit-gui
+<div align="center">
+
+<a href="https://github.com/effjy/chkrootkit-gui/"><img src="titles/chkrootkit-gui-title.svg" height="52" alt="chkrootkit GUI"></a>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language: C](https://img.shields.io/badge/language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![GTK3](https://img.shields.io/badge/GTK-3-green.svg)](https://www.gtk.org/)
 [![Issues](https://img.shields.io/github/issues/effjy/chkrootkit-gui.svg)](https://github.com/effjy/chkrootkit-gui/issues)
 [![Last commit](https://img.shields.io/github/last-commit/effjy/chkrootkit-gui.svg)](https://github.com/effjy/chkrootkit-gui/commits)
+
+</div>
 
 A friendly **GTK3** front-end for [`chkrootkit`](http://www.chkrootkit.org/) — runs a
 rootkit scan and shows the results live, in a window, **with colors**, instead of a
